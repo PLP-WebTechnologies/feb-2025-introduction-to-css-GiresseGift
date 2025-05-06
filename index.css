@@ -1,0 +1,30 @@
+    <!-- #ELEMENT TAG -- >
+
+h1, h2 ,h3{
+    color: blue;  
+    background-color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+    <!-- id selector -- >
+
+#cap1 {
+    container: black;
+    padding: auto;
+    border-color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+.highlight {
+    background-color: blue;
+    border-color: yellow;
+}
+
+div  {
+    background-color: aqua;
+    font-weight: bold;
+    color: darkgreen;
+}
